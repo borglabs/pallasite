@@ -22,8 +22,8 @@
   ],
   "version": "0.0.1",
   "compatibility": {
-    "minimum": "12.331"
-    "verified": "13.332"
+    "minimum": "11"
+    "verified": "12.331"
   },
   "esmodules": ["module/pallasite.mjs"],
   "styles": ["css/pallasite.css"],
