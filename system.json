@@ -37,7 +37,7 @@
   "packs": [],
   "packFolders": [],
   "socket": false,
-  "manifest": "https://github.com/borglabs/pallasite/releases/download/v0.0.1/system.json",
+  "manifest": "https://raw.githubusercontent.com/borglabs/pallasite/main/system.json",
   "download": "https://github.com/borglabs/pallasite/releases/download/v0.0.1/system.zip",
   "background": "systems/pallasite/assets/system.json/latest",
   "gridDistance": 5,
