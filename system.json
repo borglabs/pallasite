@@ -22,7 +22,7 @@
   ],
   "version": "0.0.1",
   "compatibility": {
-    "minimum": "11"
+    "minimum": "11",
     "verified": "12.331"
   },
   "esmodules": ["module/pallasite.mjs"],
